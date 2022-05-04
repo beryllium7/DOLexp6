@@ -1,2 +1,8 @@
 tyeieti
+<<<<<<< HEAD
 werwer
+=======
+werwer
+erqt
+fdgdg
+>>>>>>> 1e44e7e5c099b7bb0324e9a1d51ba2c37cdc65cf
